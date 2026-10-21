@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+SQLAlchemy
+PyMySQL
+requests
+beautifulsoup4
+jupyter
